@@ -19,12 +19,10 @@ Participants will explore key stochastic sampling methods, including **Markov Ch
 
 Since 2021, he has been an associate professor at the [University of Milano-Bicocca](chatgpt://generic-entity?number=4), where he leads a research group in gravitational-wave astronomy supported by the European Research Council. His core research interests include the dynamics of black-hole binaries, gravitational-wave data analysis, and related applications of artificial intelligence.
 
-![Gerosa Poster copy](https://github.com/user-attachments/assets/0e4735ef-dc69-4cac-aae1-8f8886c619eb)
-
-
+## Careful...
 
 <p align="center">
-  <img src="[https://what-if.xkcd.com/imgs/a/140/general.png](https://github.com/user-attachments/assets/0e4735ef-dc69-4cac-aae1-8f8886c619eb)" />
+  <img src="https://imgs.xkcd.com/comics/bayes_theorem.png" />
 </p>
 
-Credit: [what-if.xkcd.com/140](https://what-if.xkcd.com/140/)
+Credit: [xkcd.com/2545/](https://xkcd.com/2545/)
