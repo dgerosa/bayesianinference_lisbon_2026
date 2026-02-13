@@ -16,7 +16,7 @@ I prepared this material for a mini-course delivered at Instituto Superior Técn
 ## Careful...
 
 <p align="center">
-  <img src="https://imgs.xkcd.com/comics/modified_bayes_theorem.png" />
+  <img src="https://imgs.xkcd.com/comics/seashell.png" />
 </p>
 
-Credit: [xkcd 2059](https://xkcd.com/2059/)
+Credit: [xkcd 1236](https://xkcd.com/1236/)
