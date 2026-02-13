@@ -4,8 +4,6 @@
 
 University of Milano-Bicocca, 2026.
 
-This is a mini-course deliver at Instituto Superior Técnico, Lisbon, in February 2026. 
-
 ## Aims
 
 Extracting knowledge from data—the numbers we measure in physics—requires rigorous statistical inference. This mini-course introduces the fundamentals of Bayesian reasoning and its role in modern scientific analysis.
