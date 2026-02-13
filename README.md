@@ -13,6 +13,10 @@ Participants will explore key stochastic sampling methods, including **Markov Ch
 
 I prepared this material for a mini-course delivered at Instituto Superior Técnico, Lisbon, in February 2026. This is a subset of what I usually teach in my class [Astrostatistics and Machine Learning](https://github/dgerosa.github.io/astrostatistics) at the University of Milano-Bicocca; so have a look there if you want more stats material. 
 
+<br>
+<br>
+<br>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/19aa4ace-b444-4440-82e0-7a8a0273dc17" width="70%" />
 </p>
