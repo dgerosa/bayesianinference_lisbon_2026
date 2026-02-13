@@ -6,20 +6,15 @@ University of Milano-Bicocca, 2026.
 
 This is a mini-course deliver at Instituto Superior Técnico, Lisbon, in February 2026. 
 
-## Course Description
+## Aims
 
 Extracting knowledge from data—the numbers we measure in physics—requires rigorous statistical inference. This mini-course introduces the fundamentals of Bayesian reasoning and its role in modern scientific analysis.
 Participants will explore key stochastic sampling methods, including **Markov Chain Monte Carlo** and, time permitting, **nested sampling**. The session concludes with a hands-on astrophysics example, guiding students through a complete inference workflow in practice.
 
+## Lisbon 2026
 
-## Meet the lecturer
-
-**Davide Gerosa** completed his PhD at the University of Cambridge in 2016. He then held a NASA postdoctoral fellowship at the California Institute of Technology and later a faculty appointment at the University of Birmingham. Since 2021, he has been an associate professor at the University of Milano-Bicocca, where he leads a research group in gravitational-wave astronomy supported by the European Research Council. His core research interests include the dynamics of black-hole binaries, gravitational-wave data analysis, and related applications of artificial intelligence.
-
-## Careful...
+I prepared this material for a mini-course delivered at Instituto Superior Técnico, Lisbon, in February 2026. This is a subset of what I usually teach in my class [Astrostatistics and Machine Learning](https://github/dgerosa.github.io/astrostatistics) at the University of Milano-Bicocca; so have a look there if you want more stats material. 
 
 <p align="center">
-  <img src="https://imgs.xkcd.com/comics/bayes_theorem.png" />
+  <img src="https://github.com/user-attachments/assets/19aa4ace-b444-4440-82e0-7a8a0273dc17" width="50%" />
 </p>
-
-Credit: [xkcd.com/2545/](https://xkcd.com/2545/)
