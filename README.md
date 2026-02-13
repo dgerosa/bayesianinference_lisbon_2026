@@ -7,7 +7,7 @@ University of Milano-Bicocca, 2026.
 ## Aims
 
 Extracting knowledge from data—the numbers we measure in physics—requires rigorous statistical inference. This mini-course introduces the fundamentals of Bayesian reasoning and its role in modern scientific analysis.
-Participants will explore key stochastic sampling methods, including **Markov Chain Monte Carlo** and, time permitting, **nested sampling**. The session concludes with a hands-on astrophysics example, guiding students through a complete inference workflow in practice.
+Participants will explore key stochastic sampling methods, including Markov Chain Monte Carlo and, time permitting, nested sampling. The session concludes with a hands-on astrophysics example, guiding students through a complete inference workflow in practice.
 
 ## Lisbon 2026
 
