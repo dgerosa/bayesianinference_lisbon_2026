@@ -17,7 +17,7 @@ Participants will explore key stochastic sampling methods, including Markov Chai
 
 ## Lisbon 2026
 
-I prepared this material for a mini-course delivered at Instituto Superior Técnico, Lisbon, in February 2026. This is a small subset of what I usually teach in my class [Astrostatistics and Machine Learning](https://github/dgerosa.github.io/astrostatistics) at the University of Milano-Bicocca; so have a look there if you want more stats material. 
+I prepared this material for a mini-course delivered at Instituto Superior Técnico, Lisbon, in February 2026. This is a small subset of what I usually teach in my class [Astrostatistics and Machine Learning](https://github/dgerosa.github.io/astrostatistics) at the University of Milano-Bicocca; so have a look there for more stats. 
 
 ## Careful...
 
